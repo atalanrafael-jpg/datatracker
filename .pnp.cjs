@@ -73,7 +73,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jquery-migrate", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.4.1"],\
             ["js-cookie", "npm:3.0.5"],\
             ["list.js", "npm:2.3.1"],\
-            ["lodash", "npm:4.17.21"],\
+            ["lodash", "npm:4.17.23"],\
             ["lodash-es", "npm:4.17.21"],\
             ["luxon", "npm:3.4.4"],\
             ["moment", "npm:2.30.1"],\
@@ -6845,6 +6845,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lodash", "npm:4.17.21"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:4.17.23", {\
+          "packageLocation": "./.yarn/cache/lodash-npm-4.17.23-50bdb1c01a-7daad39758.zip/node_modules/lodash/",\
+          "packageDependencies": [\
+            ["lodash", "npm:4.17.23"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["lodash-es", [\
@@ -8357,7 +8364,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jquery-migrate", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.4.1"],\
             ["js-cookie", "npm:3.0.5"],\
             ["list.js", "npm:2.3.1"],\
-            ["lodash", "npm:4.17.21"],\
+            ["lodash", "npm:4.17.23"],\
             ["lodash-es", "npm:4.17.21"],\
             ["luxon", "npm:3.4.4"],\
             ["moment", "npm:2.30.1"],\
